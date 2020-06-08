@@ -1,0 +1,165 @@
+https://eprint.iacr.org/2019/1057.pdf
+
+TRIAL FOR SBOX #0
+Randomly generated key (in Hex):
+76ef19f184c9277d
+FAULT IN SBOX - 0: Replaced S-Box element at index [3][6] with new value = 11
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+011101101010100100110010000110111100100101001100
+011101xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Average number of iterations over 1000 trials :80.674
+
+------------------------------------------
+TRIAL FOR SBOX #1
+Randomly generated key (in Hex):
+f4cf9db478956a98
+FAULT IN SBOX - 1: Replaced S-Box element at index [3][1] with new value = 61
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+000111111111001001111100100000101101101101111000
+xxxxxx111111xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Average number of iterations over 1000 trials :79.534
+
+------------------------------------------
+TRIAL FOR SBOX #2
+Randomly generated key (in Hex):
+15a9bfa2d82eb83c
+FAULT IN SBOX - 2: Replaced S-Box element at index [2][12] with new value = 21
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+010001010110111110010001001110001111101110111000
+xxxxxxxxxxxx111110xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Average number of iterations over 1000 trials :79.189
+
+------------------------------------------
+TRIAL FOR SBOX #3
+Randomly generated key (in Hex):
+029643dc38bf1942
+FAULT IN SBOX - 3: Replaced S-Box element at index [1][10] with new value = 43
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+100001110000010010011110101011000001011011100110
+xxxxxxxxxxxxxxxxxx011110xxxxxxxxxxxxxxxxxxxxxxxx
+Average number of iterations over 1000 trials :82.777
+
+------------------------------------------
+TRIAL FOR SBOX #4
+Randomly generated key (in Hex):
+616b5130f9856fa2
+FAULT IN SBOX - 4: Replaced S-Box element at index [2][11] with new value = 47
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+110110111011101100100100000000101001001001100010
+xxxxxxxxxxxxxxxxxxxxxxxx000000xxxxxxxxxxxxxxxxxx
+Average number of iterations over 1000 trials :79.118
+
+------------------------------------------
+TRIAL FOR SBOX #5
+Randomly generated key (in Hex):
+dbcf1eea8cf37e10
+FAULT IN SBOX - 5: Replaced S-Box element at index [2][12] with new value = 38
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+001001101011010111111010011000111011010110111100
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx111011xxxxxxxxxxxx
+Average number of iterations over 1000 trials :81.79
+
+------------------------------------------
+TRIAL FOR SBOX #6
+Randomly generated key (in Hex):
+0b6a4b14bfe6ac3a
+FAULT IN SBOX - 6: Replaced S-Box element at index [0][8] with new value = 21
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+111000111000110100000101111000011101001011101111
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx001011xxxxxx
+Average number of iterations over 1000 trials :77.067
+
+------------------------------------------
+TRIAL FOR SBOX #7
+Randomly generated key (in Hex):
+7a361dfedebaacc4
+FAULT IN SBOX - 7: Replaced S-Box element at index [0][7] with new value = 53
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+000111110010111100101011111111010011010101111101
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx111101
+Average number of iterations over 1000 trials :77.747
+
+------------------------------------------
+
+
+
+TRIAL FOR SBOX #0
+Randomly generated key (in Hex):
+76ef19f184c9277d
+FAULT IN SBOX - 0: Replaced S-Box element at index [3][6] with new value = 11
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+011101101010100100110010000110111100100101001100
+011101xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Average number of iterations over 5000 trials :78.8858
+
+------------------------------------------
+TRIAL FOR SBOX #1
+Randomly generated key (in Hex):
+72bb7e9273b998e2
+FAULT IN SBOX - 1: Replaced S-Box element at index [3][1] with new value = 61
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+110111110000111010111101000011001010000111111111
+xxxxxx110000xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Average number of iterations over 5000 trials :83.2016
+
+------------------------------------------
+TRIAL FOR SBOX #2
+Randomly generated key (in Hex):
+b77234d534e88bd8
+FAULT IN SBOX - 2: Replaced S-Box element at index [2][12] with new value = 21
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+001111111000110001000111100011110100100101110100
+xxxxxxxxxxxx110001xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Average number of iterations over 5000 trials :80.5062
+
+------------------------------------------
+TRIAL FOR SBOX #3
+Randomly generated key (in Hex):
+38d28b2a8558af7a
+FAULT IN SBOX - 3: Replaced S-Box element at index [1][10] with new value = 43
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+011100001110000100011001010011110110010110101010
+xxxxxxxxxxxxxxxxxx011001xxxxxxxxxxxxxxxxxxxxxxxx
+Average number of iterations over 5000 trials :80.0646
+
+------------------------------------------
+TRIAL FOR SBOX #4
+Randomly generated key (in Hex):
+5b9f8e6f33b9d2f1
+FAULT IN SBOX - 4: Replaced S-Box element at index [2][11] with new value = 47
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+010010110111010010111111110011101010010110011101
+xxxxxxxxxxxxxxxxxxxxxxxx110011xxxxxxxxxxxxxxxxxx
+Average number of iterations over 5000 trials :81.48
+
+------------------------------------------
+TRIAL FOR SBOX #5
+Randomly generated key (in Hex):
+5165231e166a9507
+FAULT IN SBOX - 5: Replaced S-Box element at index [2][12] with new value = 38
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+001000011000110010100001101110010010010111000011
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx010010xxxxxxxxxxxx
+Average number of iterations over 5000 trials :81.1664
+
+------------------------------------------
+TRIAL FOR SBOX #6
+Randomly generated key (in Hex):
+54393c3471da4d60
+FAULT IN SBOX - 6: Replaced S-Box element at index [0][8] with new value = 21
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+011000110011101000101100101011001000100101111000
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx100101xxxxxx
+Average number of iterations over 5000 trials :80.8578
+
+------------------------------------------
+TRIAL FOR SBOX #7
+Randomly generated key (in Hex):
+bddb4f4adeccfdcb
+FAULT IN SBOX - 7: Replaced S-Box element at index [0][7] with new value = 53
+ORIGINAL LAST ROUND KEY vs FOUND BITS
+101110111001001111010011010011011111111110111011
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx111011
+Average number of iterations over 5000 trials :80.393
+
+------------------------------------------
